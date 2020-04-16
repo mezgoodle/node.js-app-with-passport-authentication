@@ -4,7 +4,7 @@
     "description": "Node.js app on express",
     "main": "app.js",
     "scripts": {
-        "start": "node app.js",
+        "start": "node ."
     },
     "repository": {
         "type": "git",
