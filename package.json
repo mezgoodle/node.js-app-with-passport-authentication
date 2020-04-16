@@ -1,0 +1,36 @@
+{
+  "name": "node.js-app-with-passport-authentication",
+  "version": "1.0.0",
+  "description": "Node.js app on express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mezgoodle/node.js-app-with-passport-authentication.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "passport"
+  ],
+  "author": "Maxim Zavalniuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mezgoodle/node.js-app-with-passport-authentication/issues"
+  },
+  "homepage": "https://github.com/mezgoodle/node.js-app-with-passport-authentication#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "mongoose": "^5.9.9",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
