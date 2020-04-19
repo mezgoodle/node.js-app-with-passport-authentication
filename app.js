@@ -16,7 +16,7 @@ const db = require("./config/keys").MongoURI;
 // Connect to Mongo
 mongoose.connect(db, { useNewUrlParser: true })
     .then(() => console.log("MongoDB connected..."))
-    .catch(err => console.log(err));
+    .catch((err) => console.log(err));
 
 // EJS
 app.use(expressLayouts);
@@ -27,7 +27,7 @@ app.use(express.urlencoded({ extended: false }));
 
 // Express session
 app.use(session({
-    secret: 'secret',
+    secret: "secret",
     resave: true,
     saveUninitialized: true
 }));

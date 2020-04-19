@@ -43,7 +43,7 @@ router.post("/register", (req, res) => {
         });
     } else {
         // Validation passed
-        User.findOne({ email: email })
+        User.findOne({ email })
             .then((user) => {
                 if (user) {
                     // User exists
@@ -75,7 +75,7 @@ router.post("/register", (req, res) => {
                                     res.redirect("/users/login");
                                 })
                                 .catch(err => console.log(err));
-                        }))
+                        }));
                 }
             });
     }

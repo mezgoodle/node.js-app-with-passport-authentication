@@ -1,10 +1,6 @@
 # Node.js app with passport authentication
 
-This is an example where it is used **express** and **MongoDB** to register and authenticate users.
-
-https://nodejs-app-with-passport-auth.herokuapp.com/
-
-https://gist.github.com/mezgoodle/4ff277a6167bf92af448f5c339a44919
+This is an example where it is used **express** and **MongoDB** to register and authenticate users. [Here](https://nodejs-app-with-passport-auth.herokuapp.com/) is live preview
 
 ## Motivation
 Recently I paid attention to Node.js and decided to work with the backend framework express. I found an online tutorial on Youtube. Also I use here MongoDB.
@@ -108,7 +104,7 @@ module.exports = {
 
 ## Deploy
 
-I decided to use [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) it for hosting on [Heroku](https://www.heroku.com/)
+I decided to use [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) it for hosting on [Heroku](https://www.heroku.com/). [Here](https://gist.github.com/mezgoodle/4ff277a6167bf92af448f5c339a44919) you can see the example of .yml file.
 
 ## How to use?
 
