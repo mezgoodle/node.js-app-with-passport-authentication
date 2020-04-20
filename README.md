@@ -5,11 +5,6 @@ This is an example where it is used **express** and **MongoDB** to register and 
 ## Motivation
 Recently I paid attention to Node.js and decided to work with the backend framework express. I found an online tutorial on Youtube. Also I use here MongoDB.
 
-## Build status
-
-![Node.js CI](https://github.com/mezgoodle/node.js-app-with-passport-authentication/workflows/Node.js%20CI/badge.svg)
-![David](https://img.shields.io/david/mezgoodle/node.js-app-with-passport-authentication)
-
 ## Code style
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a2cbfceb3c04faeb38aadfa0c371ae7)](https://www.codacy.com/manual/mezgoodle/node.js-app-with-passport-authentication?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mezgoodle/node.js-app-with-passport-authentication&amp;utm_campaign=Badge_Grade)
@@ -116,7 +111,7 @@ Let people know how they can contribute into your project. A [contributing guide
 
 ## Credits
 
-[Video](https://www.youtube.com/watch?v=6FOq4cUdH8k)
+[Video](https://www.youtube.com/watch?v=6FOq4cUdH8k),
 [Author](https://github.com/bradtraversy/node_passport_login)
 
 ## License
