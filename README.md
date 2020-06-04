@@ -24,7 +24,11 @@ Recently I paid attention to Node.js and decided to work with the backend framew
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs)
 - [passportjs](http://www.passportjs.org/)
 
-Also for all dependencies look in dependency graph of this repository
+## Dependencies
+
+![David](https://img.shields.io/david/mezgoodle/node.js-app-with-passport-authentication)
+
+> You can see all dependencies in `package.json` [here](https://github.com/mezgoodle/node.js-app-with-passport-authentication/network/dependencies).
 
 
 ## Code Example
@@ -115,5 +119,7 @@ Let people know how they can contribute into your project. A [contributing guide
 [Author](https://github.com/bradtraversy/node_passport_login)
 
 ## License
+
+![GitHub](https://img.shields.io/github/license/mezgoodle/node.js-app-with-passport-authentication)
 
 MIT © [mezgoodle](https://github.com/mezgoodle)
