@@ -11,10 +11,10 @@ Recently I paid attention to Node.js and decided to work with the backend framew
  
 ## Screenshots
 
-![Screenshot 1](https://github.com/mezgoodle/images/blob/master/node.js-app-with-passport-authentication1.PNG)
-![Screenshot 2](https://github.com/mezgoodle/images/blob/master/node.js-app-with-passport-authentication2.PNG)
-![Screenshot 3](https://github.com/mezgoodle/images/blob/master/node.js-app-with-passport-authentication3.PNG)
-![Screenshot 4](https://github.com/mezgoodle/images/blob/master/node.js-app-with-passport-authentication4.PNG)
+![Screenshot 1](https://raw.githubusercontent.com/mezgoodle/images/master/node.js-app-with-passport-authentication1.PNG)
+![Screenshot 2](https://raw.githubusercontent.com/mezgoodle/images/master/node.js-app-with-passport-authentication2.PNG)
+![Screenshot 3](https://raw.githubusercontent.com/mezgoodle/images/master/node.js-app-with-passport-authentication3.PNG)
+![Screenshot 4](https://raw.githubusercontent.com/mezgoodle/images/master/node.js-app-with-passport-authentication4.PNG)
 
 ## Tech/framework used
 
